@@ -1,4 +1,5 @@
-📘TypeScript Learning Repository
+📘TypeScript Learning Repository 
+
 Bienvenue dans le dépôt d'apprentissage TypeScript ! Ce projet est conçu pour vous aider à maîtriser TypeScript, un sur-ensemble typé statiquement de JavaScript qui se compile en JavaScript standard. Que vous soyez débutant ou développeur expérimenté, ce dépôt offre des ressources structurées pour comprendre les concepts clés, les bonnes pratiques et les outils de l'écosystème TypeScript.
 
 📖 Table des matières
